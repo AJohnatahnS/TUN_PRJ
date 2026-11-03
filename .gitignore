@@ -1,0 +1,8 @@
+Doc/
+.vercel/
+node_modules/
+.env
+.env.*
+!.env.example
+DEMO/preview.png
+deployment-proof.png
